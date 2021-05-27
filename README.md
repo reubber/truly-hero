@@ -1,6 +1,6 @@
 # TRULY HERO
-O TRULY HERO is a project that seeks to connect NGOs that provide some kind of help to people who can contribute.
-This project was developed during the brazilian programing event, where we built a complete application with Node.js without back-end, ReactJS without front-end and React Native on mobile.
+TRULY HERO is a project that seeks to connect NGOs that provide some kind of help to people who can contribute.
+This project was developed during the brazilian programing event, where we built a complete application with Node.js as back-end, ReactJS as front-end and React Native on mobile.
 
 
 ## Features
