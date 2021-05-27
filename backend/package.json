@@ -4,11 +4,14 @@
   "main": "src/index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon"
+    "dev": "nodemon",
+    "test": "jest"
   },
   "dependencies": {
+    "celebrate": "^14.0.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "jest": "^27.0.1",
     "knex": "^0.95.6",
     "sqlite3": "^5.0.2",
     "uuidv4": "^6.2.8"

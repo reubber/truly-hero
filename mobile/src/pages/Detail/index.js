@@ -74,7 +74,6 @@ function Detail () {
         </View>
       </View>
     </View>
-
   )
 }
 
